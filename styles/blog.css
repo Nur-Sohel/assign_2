@@ -143,3 +143,13 @@ flex-shrink: 0;
 flex-shrink: 0;
 background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 }
+/* footer style */
+.footer{
+    height: 636px;
+    background: #0B0223;
+}
+.F-logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
