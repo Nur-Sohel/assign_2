@@ -113,5 +113,35 @@ background-clip: text;
 font-weight: 400;
 line-height: 30px; /* 166.667% */
 }
+.sec4-image{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image-1{
+    text-align: center;
+}
 
-
+.container-8{
+    text-align: center;
+    padding-top: 150px;
+  }
+.bt{
+    display: flex;
+    gap: 20px;
+}
+.bt-parent{
+    border-radius: 50px;
+background: #FFF;
+width: 243px;
+height: 80px;
+flex-shrink: 0;
+}
+.bt-image, .bt-name{
+    padding: 10px;
+}
+.sec-8{
+    height: 427px;
+flex-shrink: 0;
+background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
